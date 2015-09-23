@@ -59,7 +59,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ericelliott/isomorphic-express-boilerplate.git"
+    "url": "git@github.com:steveoliver/isomorphic-express-boilerplate.git"
   },
   "keywords": [
     "boilerplate",
@@ -67,10 +67,10 @@
     "express",
     "html5"
   ],
-  "author": "Eric Elliott",
+  "author": "Steve Oliver",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ericelliott/isomorphic-express-boilerplate/issues"
+    "url": "https://github.com/steveoliver/isomorphic-express-boilerplate/issues"
   },
-  "homepage": "https://github.com/ericelliott/isomorphic-express-boilerplate"
+  "homepage": "https://github.com/steveoliver/isomorphic-express-boilerplate"
 }
